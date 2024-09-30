@@ -1,0 +1,10 @@
+1. Clone repo dengan cara `git clone "ini link"`
+
+**Jangan lupa masuk ke folder yang sudah di clone sebelumnya**
+
+2. Tambah file yang mau di upload `git add "nama file"`
+  -  Kalau mau semua file pakai `git add .`
+
+3. Commit di git `git commit -m "ini commit pertama"`
+
+4. push hasil commit `git push`
